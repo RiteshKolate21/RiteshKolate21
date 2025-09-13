@@ -4,7 +4,6 @@
 ---
 
 ### 👨‍💻 Portfolio
-All of my projects are available at:  
 👉 [ritesh-kolate.vercel.app](https://ritesh-kolate.vercel.app/)
 
 ### 📫 Contact Me
