@@ -53,6 +53,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
 </p>
 
+---
 
-
-<h4 align="center">✨ *Thanks for visiting my profile!* ✨</h4>
+<h4 align="center">✨ Thanks for visiting my profile  ✨</h4>
