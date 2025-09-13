@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kolate</h1>
 <h3 align="center">🚀 A passionate Fullstack Developer from India</h3>
 
----
-
-### 👨‍💻 Portfolio
-👉 [ritesh-kolate.vercel.app](https://ritesh-kolate.vercel.app/)
-
-### 📫 Contact Me
-- Email: **riteshkolate05@gmail.com**
-
----
-
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/ritesh-kolate/" target="_blank">
@@ -63,14 +53,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshkolate&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkolate&theme=radical" alt="GitHub Streak" />
-</p>
 
----
-
-✨ *Thanks for visiting my profile!* ✨
+<b>✨ *Thanks for visiting my profile!* ✨</b>
