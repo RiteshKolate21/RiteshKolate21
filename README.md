@@ -14,13 +14,13 @@ All of my projects are available at:
 
 ## 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/riteshkolate" target="_blank">
+  <a href="https://www.linkedin.com/in/ritesh-kolate/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/riteshkolate" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
-  <a href="https://www.hackerearth.com/@riteshkolate05" target="_blank">
+  <a href="https://www.hackerrank.com/profile/riteshkolate05" target="_blank">
     <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" />
   </a>
 </p>
@@ -40,7 +40,7 @@ All of my projects are available at:
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
+
 
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
@@ -57,7 +57,6 @@ All of my projects are available at:
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
 
   <!-- Data Science -->
