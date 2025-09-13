@@ -55,4 +55,4 @@
 
 
 
-<b>✨ *Thanks for visiting my profile!* ✨</b>
+<h4 align="center">✨ *Thanks for visiting my profile!* ✨</h4>
