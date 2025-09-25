@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/riteshkolate05" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hackerrank-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" />
   </a>
 </p>
 
