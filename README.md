@@ -60,12 +60,5 @@
 
 ---
 
-### 🏆 LeetCode & Activity
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/riteshkolate?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
----
-
 <h4 align="center">✨ Thanks for visiting my profile! ✨</h4>
 <p align="center">⭐️ From <a href="https://github.com/riteshkolate">Ritesh Kolate</a></p>
