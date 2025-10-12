@@ -61,4 +61,4 @@
 ---
 
 <h4 align="center">✨ Thanks for visiting my profile! ✨</h4>
-<p align="center">⭐️ From <a href="https://github.com/riteshkolate">Ritesh Kolate</a></p>
+<p align="center">⭐️ From <a href="https://github.com/riteshkolate21">Ritesh Kolate</a></p>
