@@ -41,10 +41,6 @@
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,postman,docker,kubernetes,figma" />
   
-  <!-- Data Science -->
-  <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
-</p>
-
 ---
 
 ### 💼 About Me  
