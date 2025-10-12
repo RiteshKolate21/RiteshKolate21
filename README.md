@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate Fullstack Developer from India</h3>
 
 ## 🌐 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ritesh-kolate/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
