@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kolate</h1>
 <h3 align="center">🚀 A passionate Fullstack Developer from India</h3>
 
-<h1 align="center">🌐 Connect with me</h1>
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ritesh-kolate/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,7 +15,7 @@
 </p>
 
 ---
-<h1 align="center">🛠️ Languages & Tools</h1>
+<h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
   <!-- Web -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
