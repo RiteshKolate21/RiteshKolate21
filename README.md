@@ -1,59 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ritesh Kolate</h1>
-<h3 align="center">🚀 A passionate Fullstack Developer from India</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Ritesh Kolate</span></h1>
+<h3 align="center">🚀 Passionate Fullstack Developer | 💡 Lifelong Learner | 🌍 From India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300BFFF&size=24&center=true&vCenter=true&width=600&lines=Building+beautiful+and+scalable+web+apps!;MERN+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things..." />
+</p>
 
 ---
 
-<h2 align="center">🌐 Connect with me</h2>
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ritesh-kolate/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/riteshkolate" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/riteshkolate05" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
 ---
-<h2 align="center">🛠️ Languages & Tools</h2>
+
+### 🛠️ Languages & Tools
+
 <p align="center">
-  <!-- Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
-
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  
   <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> 
-
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
-
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  
   <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  
   <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-
+  <img src="https://skillicons.dev/icons?i=git,postman,docker,kubernetes,figma" />
+  
   <!-- Data Science -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
 </p>
 
 ---
 
-<h4 align="center">✨ Thanks for visiting my profile  ✨</h4>
+### 💼 About Me  
+- 💻 I’m currently working on **MERN Stack Projects**  
+- 🌱 Learning **Next.js**, **Cloud Deployment**, and **System Design**  
+- 🎯 Goal: **Contribute to Open Source & GSoC 2026**  
+- ⚡ Fun fact: I love solving DSA problems and designing clean UI  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshkolate&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkolate&theme=tokyonight" height="160px" />
+</p>
+
+---
+
+### 🏆 LeetCode & Activity
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/riteshkolate?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+<h4 align="center">✨ Thanks for visiting my profile! ✨</h4>
+<p align="center">⭐️ From <a href="https://github.com/riteshkolate">Ritesh Kolate</a></p>
