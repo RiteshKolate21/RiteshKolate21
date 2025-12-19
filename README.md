@@ -51,13 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RiteshKolate21&show_icons=true&theme=tokyonight" height="160px" />
-
-</p>
-
----
 
 <h4 align="center">✨ Thanks for visiting my profile! ✨</h4>
 <p align="center">⭐️ From <a href="https://github.com/riteshkolate21">Ritesh Kolate</a></p>
