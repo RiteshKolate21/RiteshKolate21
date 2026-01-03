@@ -45,8 +45,7 @@
 
 ### 💼 About Me  
 - 💻 I’m currently working on **MERN Stack Projects**  
-- 🌱 Learning **Next.js**, **Cloud Deployment**, and **System Design**  
-- 🎯 Goal: **Contribute to Open Source & GSoC 2026**  
+- 🌱 Learning **Next.js**, **Cloud Deployment**, and **System Design**    
 - ⚡ Fun fact: I love solving DSA problems and designing clean UI  
 
 ---
