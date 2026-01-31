@@ -1,45 +1,47 @@
-# Hi 👋, I'm Ritesh Kolate
+<h1 align="center">Hi 👋, I'm Ritesh Kolate</h1>
+<h3 align="center">Full Stack Developer | MERN & Python</h3>
 
-I'm a Full Stack Developer with hands-on experience in building responsive web applications and machine learning projects. I enjoy turning ideas into functional applications and continuously improving my problem-solving skills.
+<p align="center">
+  <a href="https://in.linkedin.com/in/ritesh-kolate">LinkedIn</a> •
+  <a href="https://ritesh-kolate.vercel.app">Portfolio</a> •
+  <a href="https://github.com/RiteshKolate21">GitHub</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- Passionate about Web Development and Machine Learning  
-- Experience with MERN stack and Python-based projects  
+### 👨‍💻 About Me
+- Full Stack Developer with hands-on experience in web and ML projects  
 - Interested in building practical, real-world applications  
+- Comfortable working with both frontend and backend technologies  
 - Open to internships, collaborations, and learning opportunities  
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:**  
-HTML, CSS, JavaScript, React, Bootstrap  
+### 🛠️ Tech Stack
+**Frontend**  
+HTML • CSS • JavaScript • React • Bootstrap  
 
-**Backend:**  
-Node.js, Express.js  
+**Backend**  
+Node.js • Express.js  
 
-**Database:**  
+**Database**  
 MongoDB  
 
-**Programming Languages:**  
-JavaScript, Python, Java, C, C++  
+**Languages**  
+JavaScript • Python • Java • C • C++  
 
-**Tools & Platforms:**  
-Git, GitHub, Docker (Basics), Kubernetes (Basics), Figma  
-
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://in.linkedin.com/in/ritesh-kolate  
-- 🌍 Portfolio: https://ritesh-kolate.vercel.app  
-
+**Tools**  
+Git • GitHub • Docker (Basics) • Kubernetes (Basics) • Figma  
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshKolate21&show_icons=true&theme=default)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKolate21&show_icons=true&hide_border=true" />
+</p>
 
 ---
 
-⭐ *Always open to learning, improving, and revisiting projects to make them better.*
+<p align="center">
+  ⭐ Always open to learning, improving, and refining projects
+</p>
