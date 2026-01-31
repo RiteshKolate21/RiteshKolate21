@@ -8,9 +8,6 @@
   <a href="https://ritesh-kolate.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel">
   </a>
-  <a href="https://github.com/RiteshKolate21">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github">
-  </a>
 </p>
 
 ---
