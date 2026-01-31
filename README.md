@@ -1,37 +1,13 @@
+## 👋 Hi, I'm Ritesh
+I'm a developer interested in web development and machine learning.
+Currently focusing on building real-world projects.
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ritesh-kolate/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/riteshkolate" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/riteshkolate05" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
+## 🚀 What I’m Working On
+- Full-stack web apps (MERN)
+- ML projects with real datasets
 
----
+## 🛠 Tech Stack
+JavaScript | React | Node | Python | MongoDB
 
-### 🛠️ Languages & Tools
-
-<p align="center">
-  
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-  
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,postman,docker,kubernetes,figma" />
-  
----
-
+## 📫 Connect with Me
+LinkedIn | Portfolio
