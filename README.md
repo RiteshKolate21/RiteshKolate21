@@ -8,6 +8,10 @@
   <a href="https://ritesh-kolate.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel">
   </a>
+  <a href="https://github.com/RiteshKolate21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github">
+  </a>
+</p>
 
 ---
 
@@ -20,7 +24,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,mongodb,python,java,git,github,docker,figma" />
 </p>
 
@@ -28,8 +32,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKolate21&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKolate21&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKolate21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 ---
