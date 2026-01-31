@@ -41,14 +41,7 @@
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,postman,docker,kubernetes,figma" />
   
----
 
-### 💼 About Me  
-- 💻 I’m currently working on **MERN Stack Projects**  
-- 🌱 Learning **Next.js**, **Cloud Deployment**, and **System Design**    
-- ⚡ Fun fact: I love solving DSA problems and designing clean UI  
-
----
 
 
 <h4 align="center">✨ Thanks for visiting my profile! ✨</h4>
