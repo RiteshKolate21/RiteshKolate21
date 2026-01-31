@@ -1,11 +1,3 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Ritesh Kolate</span></h1>
-<h3 align="center">🚀 Passionate Fullstack Developer | 💡 Lifelong Learner | 🌍 From India</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300BFFF&size=24&center=true&vCenter=true&width=600&lines=Building+beautiful+and+scalable+web+apps!;MERN+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things..." />
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -43,6 +35,3 @@
   
 ---
 
-
-<h4 align="center">✨ Thanks for visiting my profile! ✨</h4>
-<p align="center">⭐️ From <a href="https://github.com/riteshkolate21">Ritesh Kolate</a></p>
