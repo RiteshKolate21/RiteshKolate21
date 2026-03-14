@@ -42,3 +42,30 @@ I am a passionate full stack developer with hands-on experience in building scal
 <p align="center">
   ⭐ Always learning, always improving
 </p>
+
+---
+
+## 🤖 VS Code Copilot — Claude Model Availability
+
+If you're wondering why you can't see a specific Claude model (e.g., "Claude Opus") in VS Code Copilot Chat, here's what to check:
+
+### Why Claude Models May Not Be Visible
+
+1. **Subscription tier** — Claude models (including Claude 3 Opus and Claude 3.5 Sonnet) require **GitHub Copilot Pro+**, **Business**, or **Enterprise** plans. They are not available on the free or basic Individual tier.
+
+2. **Model identifiers** — GitHub Copilot uses specific model IDs. There is no model called "Claude Opus 4.6". The available Claude models in GitHub Copilot are:
+   - `claude-3.5-sonnet` — Claude 3.5 Sonnet (recommended)
+   - `claude-3-opus` — Claude 3 Opus
+   - `claude-3.5-haiku` — Claude 3.5 Haiku
+
+3. **Model Picker** — In VS Code Copilot Chat, click the model name shown at the bottom of the chat input box to open the model picker and switch between available models.
+
+4. **VS Code version** — Ensure you are running a recent version of VS Code with the latest GitHub Copilot extension installed.
+
+### How to Select a Claude Model in VS Code
+
+1. Open the Copilot Chat panel (`Ctrl+Shift+I` / `Cmd+Shift+I`)
+2. Click the model selector at the bottom of the chat input
+3. Choose a Claude model from the list (requires eligible subscription)
+
+The `.vscode/settings.json` in this repository sets `claude-3.5-sonnet` as the default Copilot chat model.
